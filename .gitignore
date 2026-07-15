@@ -1,0 +1,23 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Temporales
+*.tmp
+*.temp
+*.bak
+
+# Credenciales
+.env
+.env.*
+*.key
+*.pem
+*.p12
+
+# Archivos sensibles
+secrets/
+credenciales/
